@@ -1,0 +1,2 @@
+# playmusic
+Skrypt strumieniujacy muzykę 
